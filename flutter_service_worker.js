@@ -48,8 +48,8 @@ const RESOURCES = {"assets/assets/assets/lib/ripple/bower.json": "62374128953120
 "manifest.json": "629f55768a1339a220f9424fab4e5ebb",
 "version.json": "a83184e2be2b6181307457ac25a64746",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
-"index.html": "6ee16adab53b0a8c27d59590eae17f48",
-"/": "6ee16adab53b0a8c27d59590eae17f48",
+"index.html": "f4d62a678c53a99a18f3439e5daedb1b",
+"/": "f4d62a678c53a99a18f3439e5daedb1b",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
@@ -61,7 +61,7 @@ const RESOURCES = {"assets/assets/assets/lib/ripple/bower.json": "62374128953120
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"main.dart.js": "6c3feb16489d781608166fcdbe9e26ec"};
+"main.dart.js": "c7f8002826753f032c98995b22b0f060"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",

@@ -26310,7 +26310,7 @@ A.E9.prototype={
 $1(a){var s,r=document.createElement("iframe")
 r.width="640"
 r.height="360"
-r.src="assets/assets/assets/splash.html"
+r.src="assets/assets/splash.html"
 s=r.style
 s.border="none"
 return r},
